@@ -4,6 +4,7 @@ namespace md07_CadernoExercicios_01
 {
     class Program
     {/*
+      * teste commit
       1. Escreva um programa com uma função que solicita a digitação do salário atual
         de um funcionário e o índice de reajuste. Exiba o salário reajustado.
 
@@ -27,7 +28,7 @@ namespace md07_CadernoExercicios_01
         {
             SolicitaSalarioeIndice();
             CalcularNovoSalario(sal, indice);
-            Console.WriteLine("\nFim!");
+            Console.WriteLine("\nFim!!!");
 
         }
     }
